@@ -33,7 +33,7 @@ import java.util.Set;
  * has been denied). Ideally you put your functionality in the onGranted method and notify
  * the user what won't work in the onDenied method.
  */
- abstract class PermissionsResultAction {
+ public abstract class PermissionsResultAction {
 
   private static final String TAG = PermissionsResultAction.class.getSimpleName();
   private final Set<String> mPermissions = new HashSet<String>(1);
