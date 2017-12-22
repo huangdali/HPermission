@@ -1,4 +1,4 @@
-# HPermission
+# HPermission [![](https://www.jitpack.io/v/huangdali/HPermission.svg)](https://www.jitpack.io/#huangdali/HPermission)
 
 >Android 6.0 permission manager
 
@@ -20,7 +20,7 @@ Add it in your root build.gradle at the end of repositories:
 ### Step 2. Add the dependency
 
 	dependencies {
-	        compile 'com.github.huangdali:HPermission:v1.0.2'
+	        compile 'com.github.huangdali:HPermission:v1.0.4'
 	}
 
 
